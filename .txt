@@ -1,0 +1,33 @@
+pump 0,row 0 : Pasan Deshapriya
+Vehicle number :KL12345, Number of liters ordered :35.0
+pump 0,row 1 is empty
+pump 0,row 2 is empty
+pump 0,row 3 is empty
+pump 0,row 4 is empty
+pump 0,row 5 is empty
+pump 1,row 0 : Chiran Deshapriya
+Vehicle number :KL09876, Number of liters ordered :50.0
+pump 1,row 1 is empty
+pump 1,row 2 is empty
+pump 1,row 3 is empty
+pump 1,row 4 is empty
+pump 1,row 5 is empty
+pump 2,row 0 is empty
+pump 2,row 1 is empty
+pump 2,row 2 is empty
+pump 2,row 3 is empty
+pump 2,row 4 is empty
+pump 2,row 5 is empty
+pump 3,row 0 is empty
+pump 3,row 1 is empty
+pump 3,row 2 is empty
+pump 3,row 3 is empty
+pump 3,row 4 is empty
+pump 3,row 5 is empty
+pump 4,row 0 is empty
+pump 4,row 1 is empty
+pump 4,row 2 is empty
+pump 4,row 3 is empty
+pump 4,row 4 is empty
+pump 4,row 5 is empty
+Waiting list
